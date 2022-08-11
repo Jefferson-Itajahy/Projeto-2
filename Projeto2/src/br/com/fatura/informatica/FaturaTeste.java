@@ -30,6 +30,7 @@ public class FaturaTeste {
 		System.out.println("Preço do item: " + fatura.getPrecoItem());
 		System.out.print("Total da Fatura é: R$ " + fatura.getTotalFatura());
 		
+		System.out.println("Alô GitHub....");
 		entrada.close();
 	}
 
